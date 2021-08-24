@@ -24,6 +24,77 @@ Establecer las normas para analizar circuitos con múltiples excitaciones o con 
 # Explicacion  y resolucion de ejercicios o problemas
 
 
+
+
+
+
+
+Cap 14
+
+
+9. Cierre el interruptor en t =0 s y determine las ecuaciones para i_L  y v_L para el circuito de la figura 14-42. Calcule i_L y v_L  en t=3.4 ms.
+
+![image](https://user-images.githubusercontent.com/84412132/130552160-3ec1a094-f429-4a71-ba4d-474367ff13f6.png)
+
+
+11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es
+4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+
+![image](https://user-images.githubusercontent.com/84412132/130552209-576f75ce-6ff4-45f7-acaf-d7a7a4dec283.png)
+
+
+13. Para la figura 14-1(b), si vL= 40e^2000t     V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+
+![image](https://user-images.githubusercontent.com/84412132/130552259-5783be08-7220-40f1-9128-34ba86302a77.png)
+
+
+14-4 Transitorios des energizantes
+
+15. Para la figura 14-43, R1=20 Ω,R2= 230 Ω y L=0.5 H y la corriente del
+inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En
+t =0 s, el interruptor se abre.
+a. ¿Cuál es la constante de tiempo en la fase de disminución?
+b. Determine las ecuaciones para i_L y v_L.
+c. Calcule los valores para i_L  y v_L a intervalos de una constante de tiempo
+desde t= 0 hasta 5τ.
+
+
+![image](https://user-images.githubusercontent.com/84412132/130552638-253317d1-58de-4a33-bd6e-b45202db2356.png)
+
+![image](https://user-images.githubusercontent.com/84412132/130552669-7241a5ea-aa08-4b42-99a1-6ec4a4b5ebbe.png)
+
+
+17. Dado v_L= -2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar v_L en t=20 ms.
+
+![image](https://user-images.githubusercontent.com/84412132/130552735-868a370f-b1fd-4a8b-b089-d4ac53381ed6.png)
+
+
+14-5 Circuitos más complejos
+
+21. Para la bobina de la figura 14-45 Rl = 1.7 ohm y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
+
+
+![image](https://user-images.githubusercontent.com/84412132/130552952-b4de5fea-e3f5-4e35-b92e-bddf36a83104.png)
+
+
+23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
+a. Determine la constante del tiempo del circuito desenergizado.
+b. Determine las ecuaciones para iL y VL.
+c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17.8 us, use las ecuaciones que se determinaron antes.
+
+![image](https://user-images.githubusercontent.com/84412132/130553038-c700aa33-db1a-4c79-88ec-6a93ba538613.png)
+
+
+27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
+
+![image](https://user-images.githubusercontent.com/84412132/130553127-734fa8f4-c666-4e94-bf44-98ed9e8dc965.png)
+
+
+
+
+
+
+
 # VIDEO
 
 https://youtu.be/VvUxLBU9sfk
