@@ -130,10 +130,121 @@ serie?
 
 ![image](https://user-images.githubusercontent.com/84585835/130639348-3bd9f79e-2d2c-4ee9-ba90-a63b5287b817.png)
 
+27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 
+![image](https://user-images.githubusercontent.com/84585835/130639596-a90f671f-1882-4c10-9f12-decd07865a3c.png)
 
+•	La ultima resistencia en serie con el paralelo de la inductancia de 6 y 4 H
+
+29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6H, ¿cómo están conectados los inductores?
+
+![image](https://user-images.githubusercontent.com/84585835/130639713-499d7cd2-da67-4157-9ca3-0d345db14b4c.png)
+
+•	Significa que está en serie la inductancia de 1.2H con el paralelo de la inductancia de 8 y 12H.
+
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
+
+![image](https://user-images.githubusercontent.com/84585835/130639822-a1d1cf9a-ae6f-4b35-b8c2-7c6bdd813356.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130639850-a015dcf8-0dce-45ed-bf41-4ed1db79668b.png)
+
+• La inductancia de 1H está en serio con el capacitor que tiene el valor total de 3μF.
+
+![image](https://user-images.githubusercontent.com/84585835/130639983-d00bd393-a186-4169-86d8-9cb681dd29de.png)
+
+•	La inductancia de 2H está en serio con el capacitor que tiene el valor total de 10μF.
+
+![image](https://user-images.githubusercontent.com/84585835/130640083-8d75282a-a9a6-4faf-b0a6-d567f62f8b5d.png)
+
+•	La inductancia de 10H, el capacitor de 25μF y la resistencia 10Ω están en serie.
+
+![image](https://user-images.githubusercontent.com/84585835/130640449-34d3e700-a132-4ef5-99cb-ccd1039c4f4b.png)
+
+•	La resistencia 10Ω en serie con la resistencia de 40Ω en paralelo a la inductancia de 50H y en serie con el capacitor de 20μF.
 Cap 14
 
+13-8 Energía almacenada por una inductancia 
+
+33. Encuentre la energía almacenada en el inductor de la figura 13-44.
+
+![image](https://user-images.githubusercontent.com/84585835/130640539-b151b044-3cd8-4651-90d9-5a5b7af14705.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130640623-1eb40edf-c2ea-4563-8a8d-96602301c4e9.png)
+
+13-9 Sugerencias para la resolución de problemas con inductores 
+
+![image](https://user-images.githubusercontent.com/84585835/130640689-ac8a9915-86c1-403e-9e4c-f0a570f1be08.png)
+
+
+35. En la figura 13-46, un medidor de inductancia mide 7H. ¿Cuál es la falla probable?
+
+•	El fallo es que la trayectoria que contiene L1 y L2 esta 
+
+Capítulo 14
+
+1.- a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
+
+Se parece a un circuito abierto.
+
+b. Para cada circuito de la figura 14-37, determine is y VL inmediatamente después de que el interruptor se cierra.
+
+![image](https://user-images.githubusercontent.com/84585835/130640821-7a197a2a-ccf5-4f83-befb-7a7886e90522.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130640900-6ba74c7f-ea61-4536-8cc0-dc532c404249.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130640927-5fcc5d3a-6a56-4605-a058-c115a0f44824.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130640949-d09a0eac-96ba-40bd-a937-620c59e84cab.png)
+
+3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+
+![image](https://user-images.githubusercontent.com/84585835/130640993-08753db2-144b-4a11-9764-b97c05858389.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130641041-5e32dd45-0301-4f93-9b13-b3ebfa988dd9.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130641093-ffeb3310-5c61-4082-a157-2ef4bb76ebbb.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130641139-fce087f0-89d1-43c7-83a9-e96697b1c96b.png)
+
+5. El interruptor de la figura 14-39 está cerrado en t = 0 s. 
+
+![image](https://user-images.githubusercontent.com/84585835/130641171-feb25687-416a-4d3a-b554-445da7b03da2.png)
+
+a. ¿Cuál es la constante de tiempo del circuito? 
+
+![image](https://user-images.githubusercontent.com/84585835/130641236-5d599bd7-b26c-40a4-aba7-fc6209b23746.png)
+
+b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable? 
+
+![image](https://user-images.githubusercontent.com/84585835/130641314-88db1af1-8f24-4f92-96ee-22e946e8064b.png)
+
+c. Determine las ecuaciones para iL y VL. 
+
+![image](https://user-images.githubusercontent.com/84585835/130641354-346f1b4c-93eb-4d07-b5ec-1afac4200cc2.png)
+
+d. Calcule los valores para iL y VL a intervalos de una constante de tiempo desde t = 0 hasta 5 T. 
+
+![image](https://user-images.githubusercontent.com/84585835/130641448-76ffe2ca-90ac-408b-a6ab-2510a9e789f9.png)
+
+7. Repita el problema 5 para el circuito de la figura 14-41 con L = 4 H.
+
+![image](https://user-images.githubusercontent.com/84585835/130641493-1e5b7849-1997-4e7f-8924-af7f73e1848a.png)
+
+a. ¿Cuál es la constante de tiempo del circuito? 
+
+![image](https://user-images.githubusercontent.com/84585835/130641541-ff6da997-b4ce-449e-888a-f1680a584b89.png)
+
+b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable? 
+
+![image](https://user-images.githubusercontent.com/84585835/130641608-3d177adf-8a40-4138-8bc5-77e65ced9d9f.png)
+
+c. Determine las ecuaciones para iL y VL. 
+
+![image](https://user-images.githubusercontent.com/84585835/130641663-7640a563-98d9-4763-bf92-8038990a9844.png)
+
+d. Calcule los valores para iL y VL a intervalos de una constante de tiempo desde t = 0 hasta 5 T. 
+
+![image](https://user-images.githubusercontent.com/84585835/130641723-5158aa2c-1da1-4dd7-8a7f-0bd6c3a7c4e0.png)
 
 9. Cierre el interruptor en t =0 s y determine las ecuaciones para i_L  y v_L para el circuito de la figura 14-42. Calcule i_L y v_L  en t=3.4 ms.
 
