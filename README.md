@@ -1,14 +1,15 @@
 # ANALISIS-DE-CIRCUITOS-TAREA-7
 # Objetivo
-Objetivo general:
 
-Establecer las normas para analizar circuitos con múltiples excitaciones o con una excitación cualquiera, obtener modelos simplificados de circuitos complejos con el fin de abordar la interconexión de redes circuitales e introducir conceptos asociados a la transmisión de corrientey voltaje tambien sobre los capacitores y conceotos de magnetismo.
+# Objetivo general:
+
+•	Establecer las normas para analizar circuitos con múltiples elementos como inductancias capacitores, interruptores, resistencias y fuentes de voltaje los cuales se los puede trabajar para obtener modelos simplificados de circuitos complejos con el fin de abordar la interconexión de redes circuitales e introducir conceptos asociados a la transmisión de corriente y voltaje también sobre los capacitores y conceptos de del comportamiento de inductancias.
 
 # Objetivos específicos
 
-• Analizar los fundamentos sobre la carga, descarga del capacitor y circuitos formadores de onda simples que se los puede aplicar en ejercicios.
+• Analizar los fundamentos sobre inductancia e inductores para aplicarlos en los ejercicios propuestos en el capitulo correspondiente a este tema.
 
-• Comprender los conceptos sobre el Magnetismo y circuitos magnéticos para poderlos aplicar en la resolución de los ejercicios propuestos.
+• •	Comprender los conceptos sobre la transitorios inductivos para poderlos aplicar en la resolución de los ejercicios propuestos en el capítulo correspondiente a este tema.
 
 
 # Marco Teorico
