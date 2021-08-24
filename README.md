@@ -26,6 +26,84 @@ Establecer las normas para analizar circuitos con múltiples excitaciones o con 
 
 # Explicacion  y resolucion de ejercicios o problemas
 
+Cap 13 
+
+
+1. Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s, ¿cuál es el voltaje en la bobina? 
+
+![image](https://user-images.githubusercontent.com/84587118/130554140-cc26e3da-1fe9-4dad-be7e-237edb9bebab.png)
+
+![image](https://user-images.githubusercontent.com/84587118/130554160-0f908b5f-ba0c-445a-bedd-1076f3fcaf5d.png)
+
+3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0,01 s?
+
+![image](https://user-images.githubusercontent.com/84587118/130554180-144d328a-e101-4af2-9feb-c708ed4a2553.png)
+
+
+5. La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200 A en 0.1 ms. ¿Cuál es el voltaje en él?
+
+![image](https://user-images.githubusercontent.com/84587118/130554206-2a634af1-3c92-41ae-9e39-8764f0bfa705.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/130554222-8ec23b6f-f690-46d5-a2ae-29d9618db184.png)
+
+
+7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?
+
+![image](https://user-images.githubusercontent.com/84587118/130554240-a57cbf6b-e99b-48a4-9b81-987638d7fb92.png)
+
+
+9. Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si 20 cm, N 200 vueltas, y d 2 cm.
+
+![image](https://user-images.githubusercontent.com/84587118/130554258-aa488ebc-ff1e-419e-9222-f028dbe26232.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/130554269-b5015a01-d0be-42f9-be8b-5072b4fba695.png)
+
+
+
+11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = Haa. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a N . Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es: 
+
+
+![image](https://user-images.githubusercontent.com/84587118/130554287-634a7dde-9444-4400-97fb-83546446bf2e.png)
+
+
+13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?
+
+
+![image](https://user-images.githubusercontent.com/84587118/130554310-91494fb9-a141-4e6f-9ac0-c00a69e69a4e.png)
+
+15. La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios
+en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
+
+![image](https://user-images.githubusercontent.com/84587118/130630905-c10b3c4a-507c-4fdd-9823-31e13c67e795.png)
+
+
+a. ¿Qué valor tiene L?
+
+![image](https://user-images.githubusercontent.com/84587118/130630961-f8c949e4-4f7d-4714-9a49-fa4b47ef5fac.png)
+
+
+b. Determine la forma de onda de la corriente y grafíquela.
+
+![image](https://user-images.githubusercontent.com/84587118/130630998-b747cd1d-6384-48cd-a4e7-06c89f3073b5.png)
+
+
+c. ¿Cuál es la corriente en t _ 10 s?v
+
+![image](https://user-images.githubusercontent.com/84587118/130631072-52b05961-2975-4766-93ba-b974feb5ee43.png)
+
+
+13-5 Inductancias en serie y en paralelo
+17. ¿Cual es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en
+serie?
+
+![image](https://user-images.githubusercontent.com/84587118/130631408-7d25db49-be36-4fbe-8f85-a438fda979dc.png)
+
+
+19. Repita el problema 17 si las inductancias están conectadas en paralelo.
+
+![image](https://user-images.githubusercontent.com/84587118/130631503-4122c1f7-6839-4b11-9e80-3331913b5bb1.png)
 
 
 
@@ -91,50 +169,6 @@ c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17
 27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
 
 ![image](https://user-images.githubusercontent.com/84412132/130553127-734fa8f4-c666-4e94-bf44-98ed9e8dc965.png)
-
-
-1. Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s, ¿cuál es el voltaje en la bobina? 
-
-![image](https://user-images.githubusercontent.com/84587118/130554140-cc26e3da-1fe9-4dad-be7e-237edb9bebab.png)
-
-![image](https://user-images.githubusercontent.com/84587118/130554160-0f908b5f-ba0c-445a-bedd-1076f3fcaf5d.png)
-
-3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0,01 s?
-
-![image](https://user-images.githubusercontent.com/84587118/130554180-144d328a-e101-4af2-9feb-c708ed4a2553.png)
-
-
-5. La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200 A en 0.1 ms. ¿Cuál es el voltaje en él?
-
-![image](https://user-images.githubusercontent.com/84587118/130554206-2a634af1-3c92-41ae-9e39-8764f0bfa705.png)
-
-
-![image](https://user-images.githubusercontent.com/84587118/130554222-8ec23b6f-f690-46d5-a2ae-29d9618db184.png)
-
-
-7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?
-
-![image](https://user-images.githubusercontent.com/84587118/130554240-a57cbf6b-e99b-48a4-9b81-987638d7fb92.png)
-
-
-9. Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si 20 cm, N 200 vueltas, y d 2 cm.
-
-![image](https://user-images.githubusercontent.com/84587118/130554258-aa488ebc-ff1e-419e-9222-f028dbe26232.png)
-
-
-![image](https://user-images.githubusercontent.com/84587118/130554269-b5015a01-d0be-42f9-be8b-5072b4fba695.png)
-
-
-
-11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = Haa. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a N . Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es: 
-
-
-![image](https://user-images.githubusercontent.com/84587118/130554287-634a7dde-9444-4400-97fb-83546446bf2e.png)
-
-
-13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?
-
-![image](https://user-images.githubusercontent.com/84587118/130554310-91494fb9-a141-4e6f-9ac0-c00a69e69a4e.png)
 
 
 
