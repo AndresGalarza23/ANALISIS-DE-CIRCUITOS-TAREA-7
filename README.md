@@ -21,6 +21,9 @@ Establecer las normas para analizar circuitos con múltiples excitaciones o con 
 
 # Capitulo 14
 
+![image](https://user-images.githubusercontent.com/84587118/130553709-018bdc05-5c84-40dc-a826-f41959334cd3.png)
+
+
 # Explicacion  y resolucion de ejercicios o problemas
 
 
