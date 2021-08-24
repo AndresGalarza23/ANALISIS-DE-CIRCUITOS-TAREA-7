@@ -9,7 +9,7 @@
 
 • Analizar los fundamentos sobre inductancia e inductores para aplicarlos en los ejercicios propuestos en el capitulo correspondiente a este tema.
 
-• •	Comprender los conceptos sobre la transitorios inductivos para poderlos aplicar en la resolución de los ejercicios propuestos en el capítulo correspondiente a este tema.
+• Comprender los conceptos sobre la transitorios inductivos para poderlos aplicar en la resolución de los ejercicios propuestos en el capítulo correspondiente a este tema.
 
 
 # Marco Teorico
