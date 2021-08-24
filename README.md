@@ -73,8 +73,11 @@ Cap 13
 
 ![image](https://user-images.githubusercontent.com/84587118/130554310-91494fb9-a141-4e6f-9ac0-c00a69e69a4e.png)
 
+
+
 15. La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios
 en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
+
 
 ![image](https://user-images.githubusercontent.com/84587118/130630905-c10b3c4a-507c-4fdd-9823-31e13c67e795.png)
 
@@ -95,6 +98,8 @@ c. ¿Cuál es la corriente en t _ 10 s?v
 
 
 13-5 Inductancias en serie y en paralelo
+
+
 17. ¿Cual es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en
 serie?
 
