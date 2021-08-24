@@ -114,7 +114,36 @@ serie?
 
 21. Determine LT para los circuitos de la figura 13-37
 
+
 ![image](https://user-images.githubusercontent.com/84587118/130632975-4ca8fe1f-ef0f-44d1-a0c7-1f13f67d19ca.png)
+
+![image](https://user-images.githubusercontent.com/84587118/130645938-0144bae9-e11b-48bf-bf47-4dbeb0862e61.png)
+
+![image](https://user-images.githubusercontent.com/84587118/130646026-a78c6ebf-34e6-4d28-87c3-b2d600d1c10b.png)
+
+![image](https://user-images.githubusercontent.com/84587118/130646072-2b5b5acf-b6eb-4c41-9893-55a70526952b.png)
+
+![image](https://user-images.githubusercontent.com/84587118/130646101-e2e160f2-6939-4dda-9857-94f1a567d535.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/130646125-38b73293-fc56-47b5-b7d4-7d63ba63904a.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/130646165-c6d05f59-0830-4908-af86-3a6e5ffbcb98.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/130646184-8050e5a3-7e97-4f7f-ad67-72710c5114c0.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/130646214-976f35c6-b247-4cd4-be1b-2f5bf2128245.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/130646238-c8d43fd4-942e-47e8-8cf2-48db0727bc97.png)
+
+
+![image](https://user-images.githubusercontent.com/84587118/130646278-35e3a5f6-9628-46bc-a542-c1bb170a698e.png)
+
+
 
 23. Una inductancia de 30 μH está conectada en serie con una inductancia de 60 μH, y una inductancia de 10 μH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 
