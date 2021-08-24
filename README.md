@@ -340,7 +340,7 @@ c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17
 
 # VIDEO
 
-https://youtu.be/VvUxLBU9sfk
+https://youtu.be/EK_z3fmWrog
 
 # Conclusiones
 
