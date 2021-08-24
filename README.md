@@ -116,9 +116,19 @@ serie?
 
 ![image](https://user-images.githubusercontent.com/84587118/130632975-4ca8fe1f-ef0f-44d1-a0c7-1f13f67d19ca.png)
 
+23. Una inductancia de 30 μH está conectada en serie con una inductancia de 60 μH, y una inductancia de 10 μH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 
+![image](https://user-images.githubusercontent.com/84585835/130639120-2693a3f1-54af-4100-beae-b21a7f419e63.png)
 
+25. Para los circuitos de la figura 13-40, determine L3 y L4
 
+![image](https://user-images.githubusercontent.com/84585835/130639209-3361b4c8-0993-48f5-98ac-f5afa566353d.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130639250-3c67e2a0-145b-4b25-a0a8-0fb559a53134.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130639294-b06d83a3-9f70-4a65-9eb5-a9808e3776f5.png)
+
+![image](https://user-images.githubusercontent.com/84585835/130639348-3bd9f79e-2d2c-4ee9-ba90-a63b5287b817.png)
 
 
 
